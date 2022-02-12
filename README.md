@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kakorotto
 - 👀 I’m interested in learning new programming languages and developing more skills
 - 🌱 I’m currently learning DevOps
-- 📫 How to reach me: #HERE
+- 📫 How to reach me: __HERE__
 
 <!---
 kakorotto/kakorotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
