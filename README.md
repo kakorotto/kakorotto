@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kakorotto
-- 👀 I’m interested in learning new programming languages and developing more skills
+- 👀 I’m interested in learning new programming languages and web development
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me: __HERE__
 
